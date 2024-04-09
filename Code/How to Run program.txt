@@ -1,0 +1,15 @@
+*How to Run program
+
+pip install pandas 
+pip install matplotlib 
+pip install keras
+pip install scikit-learn
+pip install joblib
+pip install tk
+pip install ipython
+
+1. If you want to run only Aplication 
+   -run main.py
+
+2. If you want to see how to clean data and build the model  
+   -run Full_Training_Process.py 
