@@ -4,14 +4,10 @@
 - Developed a prediction model achieving 99% accuracy. Additionally, designed a user-friendly interface using Tkinter to enhance usability.
 - Utilized Power BI to construct comprehensive BI dashboards, facilitating the analysis of key factors contributing to employee attrition within the company.
 
-## Installation
-- pip install pandas 
-- pip install numpy
-- pip install matplotlib 
-- pip install keras
-- pip install scikit-learn
-- pip install joblib
-- pip install tk
+## Setup for Python:
+1. Install Python [Setup instructions](https://wiki.python.org/moin/BeginnersGuide)
+2. Install Python packages
+- pip3 install -r requirements.txt
 
 ## Usage
 - If you want to run only Aplication run main.py
