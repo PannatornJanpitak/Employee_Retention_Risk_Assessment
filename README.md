@@ -6,6 +6,7 @@
 
 ## Setup for Python:
 1. Install Python [Setup instructions](https://wiki.python.org/moin/BeginnersGuide)
+   
 2. Install Python packages
 - pip3 install -r requirements.txt
 
