@@ -8,7 +8,7 @@
 1. Install Python [Setup instructions](https://wiki.python.org/moin/BeginnersGuide)
    
 2. Install Python packages
-- pip3 install -r requirements.txt
+   - pip3 install -r requirements.txt
 
 ## Usage
 - If you want to run only Aplication run main.py
