@@ -1,12 +1,8 @@
-*How to Run program
+*How to install Python packages
 
-pip install pandas 
-pip install matplotlib 
-pip install keras
-pip install scikit-learn
-pip install joblib
-pip install tk
-pip install ipython
+pip3 install -r requirements.txt
+
+*How to Run program
 
 1. If you want to run only Aplication 
    -run main.py
